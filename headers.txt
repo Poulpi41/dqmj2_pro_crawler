@@ -1,0 +1,15 @@
+GET /den/games/dqm5ds/synth_offspring_results.php?searchfor=Wailin%27+weed&submitbutton=Envoyer HTTP/3
+Host: www.woodus.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Referer: https://www.woodus.com/den/games/dqm5ds/synth_offspring.php
+Alt-Used: www.woodus.com
+Connection: keep-alive
+Cookie: cf_clearance=jK1mcnHS0iJZlj5Uq2Gb.4wa86yC4qqZ89agd4n_Jcg-1699785710-0-1-e6948c1a.e68aa2fd.ae3ffc4f-160.2.1699785710; cf_chl_2=61ad848ca2d5537; cf_chl_rc_m=1
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+TE: trailers
