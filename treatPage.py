@@ -5,7 +5,7 @@ import json
 def formatNameForRequest(name:str) -> str:
     res:str = ""
     res = name.replace(" ", "+")
-def getSynthsFrom(path:str) -> list[dict]:
+def getSynthsFrom(path:str) -> list:
     res:list = []
     with open(path, 'r') as f:
         soup = bs4.BeautifulSoup(f, 'html.parser')
