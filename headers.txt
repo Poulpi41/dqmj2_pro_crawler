@@ -1,13 +1,12 @@
-GET /den/games/dqm5prods/synth_offspring_results.php?searchfor=Aamon&excludedecrease=yes&excludesame=yes&specialonly=yes&submitbutton=Submit+Query HTTP/3
+GET /den/games/dqm5prods/synth_offspring_results.php?searchfor=Aamon&excludedecrease=yes&excludesame=yes&specialonly=yes&submitbutton=Submit+Query HTTP/2
 Host: www.woodus.com
-User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0
 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
 Accept-Language: en-US,en;q=0.5
 Accept-Encoding: gzip, deflate, br
-Alt-Used: www.woodus.com
 Connection: keep-alive
 Referer: https://www.woodus.com/den/games/dqm5prods/synth_offspring.php
-Cookie: cf_clearance=rNbqyl_zqiWwsT0ZYoWvTW6vBceU_RsfXJsg6JbZbLo-1700490705-0-1-f30ebcfa.4695dab5.6e149f94-250.2.1700490705; cf_chl_2=02472ba5f478b01
+Cookie: cf_clearance=i1uTa3Tp31pXQli2AbC7DCXCHOFBVvWS_6aH8BPGYLk-1701351074-0-1-9547fb48.6a717f4.c246a4a8-250.2.1701351074
 Upgrade-Insecure-Requests: 1
 Sec-Fetch-Dest: document
 Sec-Fetch-Mode: navigate

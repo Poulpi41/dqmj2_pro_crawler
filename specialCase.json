@@ -1,0 +1,30 @@
+{
+    "dragovian lord":[
+        {
+            "parents":[
+                { "name" : "dragonlord" },
+                { "name" : "rhapthorne 2" }
+            ],
+            "rank" : "rank increase",
+            "synthesis" : "special"
+        }
+    ],
+    "dracolord" : [
+        {
+            "parents" : [
+                { "name" : "demon-at-arms" },
+                { "name" : "great-dragon" }
+            ],
+            "rank" : "rank increase",
+            "synthesis" : "special"
+        }
+    ],
+    "dragonlord":{
+        "parents":[
+            { "name" : "dracolord" },
+            { "name" : "alabast dragon" }
+        ],
+        "rank" : "rank increase",
+        "synthesis" : "special"
+    }
+}
